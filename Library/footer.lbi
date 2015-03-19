@@ -1,0 +1,30 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><footer id="footer">
+        <section class="footerlinks">
+            <h3>Navigation</h3>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../big-sur.html">Big Sur</a></li>
+                <li><a href="../pfeiffer-beach.html">Pfeiffer Beach</a></li>
+                <li><a href="../elephant-seals.html">Elephant Seals</a></li>
+                <li><a href="../morro-bay.html">Morro Bay</a></li>
+            </ul>
+        </section>
+        <section class="footerlinks">
+            <h3>Social Media</h3>
+            <ul>
+                <li><a href="https://www.facebook.com">Facebook</a></li>
+                <li><a href="https://www.twitter.com">Twitter</a></li>
+                <li><a href="https://www.youtube.com">YouTube</a></li>
+            </ul>
+        </section>
+        <section class="footerlinks">
+            <h3>Related Information</h3>
+            <ul>
+                <li><a href="http://www.lonelyplanet.com/usa/california/big-sur">Big Sur Guide</a></li>
+                <li><a href="http://www.parks.ca.gov/">California State Parks</a></li>
+                <li><a href="http://www.elephantseal.org/">Friends of the Elephant Seal</a></li>
+                <li><a href="http://www.morrobay.org/">Morro Bay</a></li>
+            </ul>
+        </section>
+    <p class="clearleft">&copy; 2013 Adobe Press. All rights reserved.</p>
+    </footer>
